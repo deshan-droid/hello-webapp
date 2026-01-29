@@ -628,8 +628,8 @@
     </section>
 
     <footer>
-      <div>Built for learning — DevOps mindset + clean delivery ✨</div>
-      <div>Want a version for <span class="kbd">Docker</span> + <span class="kbd">Kubernetes</span>? Tell me.</div>
+      <div>Built for learning — DevOps mindset + clean delivery</div>
+      
     </footer>
   </div>
 
